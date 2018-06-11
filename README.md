@@ -10,7 +10,7 @@ Ziggs uses peer-to-peer technology to operate with no central authority.
 Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
 You can share data securely across hundreds of devices in the world with one click.
 Message delieverd directly from your device to channel connected users. Nothing stored on our servers.
-Ziggs based on C++ Providing maximum preformance.
+Ziggs based on C++ Providing maximum performance.
 
 ### Where and why to use Ziggs?
 
@@ -34,3 +34,6 @@ Ziggs based on C++ Providing maximum preformance.
 - Based on C++ and websocket.
 - Pin a Note for channel users.
 
+### Reach us
+
+[contact@ziggs.io](mailto:contact@ziggs.io)
