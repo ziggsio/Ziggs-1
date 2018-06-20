@@ -5,17 +5,17 @@ Lightweight. Secure. Fast. Messaging Platform
 
 ### What is Ziggs?
 
-Simple, Secure and fast messesging platform.
-Ziggs uses peer-to-peer technology to operate with no central authority.
-Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
-You can share data securely across hundreds of devices in the world with one click.
-Message delieverd directly from your device to channel connected users. Nothing stored on our servers.
-Ziggs based on C++ Providing maximum performance.
+- Ziggs is a messaging platform, Exists to facilitate the communication of people.
+- Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
+- Ziggs uses peer-to-peer technology to operate with no central authority.
+- You can share data securely across hundreds of devices in the world with one click.
+- Message delieverd directly from your device to channel connected users. Nothing stored on our servers.
 
 ### Where and why to use Ziggs?
 
 - Workspace: Share pictures, Screenshots, codes, text, links with your team and friends quickly.
 - School: Sending some text to classmates emails or facebook accounts is boring, Ziggs is the fastest way.
+- Conferences: Share questions, comments, contact details or anything with attendees.
 - Anywhere: Share with anyone any type of data, make a high privacy conversations.
 - Strangers? Create a channel and get your data without reveling your facebook or mobile number.
 
