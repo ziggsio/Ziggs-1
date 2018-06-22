@@ -34,6 +34,6 @@ Lightweight. Secure. Fast. Messaging Platform
 - Based on C++ and websocket.
 - Pin a Note for channel users.
 
-### Reach us
+### Contact us
 
-[contact@ziggs.io](mailto:contact@ziggs.io)
+Email: [contact@ziggs.io](mailto:contact@ziggs.io)
