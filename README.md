@@ -9,7 +9,7 @@ Lightweight. Secure. Fast. Messaging Platform
 - Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
 - Ziggs uses peer-to-peer technology to operate with no central authority.
 - You can share data securely across hundreds of devices in the world with one click.
-- Message delieverd directly from your device to channel connected users. Nothing stored on our servers.
+- Message delivered directly from your device to channel connected users. Nothing stored on our servers.
 
 ### Where and why to use Ziggs?
 
