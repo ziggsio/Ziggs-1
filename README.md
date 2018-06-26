@@ -5,7 +5,7 @@ Lightweight. Secure. Fast. Messaging Platform
 
 ### What is Ziggs?
 
-- Ziggs is a messaging platform, Exists to facilitate the communication of people.
+- Ziggs is a messaging platform, Exists to facilitate people communication.
 - Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
 - Ziggs uses peer-to-peer technology to operate with no central authority.
 - You can share data securely across hundreds of devices in the world with one click.
@@ -29,9 +29,9 @@ Lightweight. Secure. Fast. Messaging Platform
 - Low data usage.
 - All Languages Supported.
 - Voice messages.
-- Share files of any type easily.
+- Share files over 500MB per File.
 - Pin a Note for channel users.
-- Based on C++ and websocket.
+- Typing indictors.
 - Pin a Note for channel users.
 
 ### Contact us
