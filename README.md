@@ -25,7 +25,7 @@ Smoothly Share Content Between Devices
 - 100% secure and anonymous.
 - No logs or IP address tracking.
 - Ziggs is totally free.
-- Emoji is Supported.
+- Emoji Supported.
 - Low data usage.
 - All languages supported.
 - Voice messages.
@@ -33,6 +33,7 @@ Smoothly Share Content Between Devices
 - Pin a Note for channel users.
 - Typing indictors.
 - Pin a Note for channel users.
+- MarkDown supported for codes.
 
 
 ### Contact us
