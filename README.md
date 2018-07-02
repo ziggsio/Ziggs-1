@@ -1,38 +1,39 @@
 # Ziggs.io Messaging Platform 
-Lightweight. Secure. Fast. Messaging Platform
+Smoothly Share Content Between Devices
 
 *This repository is currently only used for issue tracking for ziggs.io*
 
 ### What is Ziggs?
 
-- Ziggs is a messaging platform, Exists to facilitate people communication.
-- Ziggs doesn't store any type of data and doesn't require your email address, name, or even your IP address.
-- Ziggs uses peer-to-peer technology to operate with no central authority.
-- You can share data securely across hundreds of devices in the world with one click.
-- Message delivered directly from your device to channel connected users. Nothing stored on our servers.
+- Ziggs is a platform that exists to facilitate people communications..
+- Ziggs is like a meeting point with your devices, it helps you to transfer contents between these devices smoothly.
+- Ziggs doesn't store any type of data and doesn't require your personal information.
+- Share pictures, videoss and even APK apps with your friends seamlessly.
+- Messages are delivered directly from your device to the connected clients.
 
 ### Where and why to use Ziggs?
 
-- Workspace: Share pictures, Screenshots, codes, text, links with your team and friends quickly.
-- School: Sending some text to classmates emails or facebook accounts is boring, Ziggs is the fastest way.
+- Workspace: Share pictures, screenshots, codes, texts, and links with your team and friends smoothly.
 - Conferences: Share questions, comments, contact details or anything with attendees.
-- Anywhere: Share with anyone any type of data, make a high privacy conversations.
-- Strangers? Create a channel and get your data without reveling your facebook or mobile number.
+- School: Sending some texts to classmates, emails or Facebook accounts can be boring. Ziggs is the fastest way.
+- Strangers: Create a channel and get your data without revealing your facebook or mobile number.
+- Multiple Devices: Transfer any content e.g. texts, pictures, videos between devices.
 
 ### Features
 
-- No Registration Required.
-- 100% Secure and anonymous.
-- No logos or IP address tracking.
-- Ziggs is totally Free.
-- Emoji Supported.
+- No registration is required.
+- 100% secure and anonymous.
+- No logs or IP address tracking.
+- Ziggs is totally free.
+- Emoji is Supported.
 - Low data usage.
-- All Languages Supported.
+- All languages supported.
 - Voice messages.
 - Share files over 500MB per File.
 - Pin a Note for channel users.
 - Typing indictors.
 - Pin a Note for channel users.
+
 
 ### Contact us
 
