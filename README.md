@@ -1,4 +1,4 @@
-# Ziggs.io Messaging Platform 
+# Ziggs.io
 Smoothly Share Content Between Devices
 
 *This repository is currently only used for issue tracking for ziggs.io*
