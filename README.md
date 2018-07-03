@@ -18,7 +18,7 @@ Smoothly Share Content Between Devices
 - School: Sending some texts to classmates, emails or Facebook accounts can be boring. Ziggs is the fastest way.
 - Strangers: Create a channel and get your data without revealing your facebook or mobile number.
 - Multiple Devices: Transfer any content e.g. texts, pictures, videos between devices.
-- Quality: Most messaging platforms reduce your images quality up to x25, Ziggs send the image as is it.
+- Quality: Most messaging platforms reduce your images quality up to x25, Ziggs transfers images as it is.
 
 ### Features
 
