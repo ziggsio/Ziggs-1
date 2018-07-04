@@ -24,10 +24,12 @@ Smoothly Share Content Between Devices
 
 - No registration is required.
 - 100% secure and anonymous.
+- High privacy conversations.
 - Voice messages.
 - Emoji Supported.
 - Share files over 500MB per File.
 - Share images with the same quality.
+- Most files extenstions are supported.
 - All languages supported.
 - Pin a note for channel users.
 - Typing indictors.
