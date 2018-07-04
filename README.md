@@ -34,6 +34,7 @@ Smoothly Share Content Between Devices
 - Pin a note for channel users.
 - Typing indictors.
 - MarkDown supported for codes.
+- Public issue tracking.
 - Ziggs is totally free.
 - Low data usage.
 - No logs or history.
