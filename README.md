@@ -24,18 +24,17 @@ Smoothly Share Content Between Devices
 
 - No registration is required.
 - 100% secure and anonymous.
-- Share images with the same quality.
-- No message stored.
-- Ziggs is totally free.
-- Emoji Supported.
-- Low data usage.
-- All languages supported.
 - Voice messages.
+- Emoji Supported.
 - Share files over 500MB per File.
-- Pin a Note for channel users.
+- Share images with the same quality.
+- All languages supported.
+- Pin a note for channel users.
 - Typing indictors.
-- Pin a Note for channel users.
 - MarkDown supported for codes.
+- Ziggs is totally free.
+- Low data usage.
+- No logs or history.
 
 
 ### Contact us
