@@ -7,9 +7,9 @@ Smoothly Share Content Between Devices
 
 - Ziggs is a platform that exists to facilitate people communications..
 - Ziggs is like a meeting point with your devices, it helps you to transfer contents between these devices smoothly.
-- Ziggs doesn't store any type of data and doesn't require your personal information.
-- Share pictures, videoss and even APK apps with your friends seamlessly.
+- Drag-and-drop PDFs, images, videos, APK apps and other files directly into Ziggs.
 - Messages are delivered directly from your device to the connected clients.
+- Ziggs doesn't store any type of data and doesn't require your personal information.
 
 ### Where and why to use Ziggs?
 
