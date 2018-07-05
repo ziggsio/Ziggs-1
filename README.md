@@ -5,7 +5,7 @@ Smoothly Share Content Between Devices
 
 ### What is Ziggs?
 
-- Ziggs is a platform that exists to facilitate people communications..
+- Ziggs is a platform that exists to facilitate people communications.
 - Ziggs is like a meeting point with your devices, it helps you to transfer contents between these devices smoothly.
 - Drag-and-drop PDFs, images, videos, APK apps and other files directly into Ziggs.
 - Messages are delivered directly from your device to the connected clients.
