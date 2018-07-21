@@ -5,11 +5,14 @@ Smoothly Share Content Between Devices
 
 ### What is Ziggs?
 
-- Ziggs is a platform that exists to facilitate people communications.
+- Ziggs is a platform that exists to facilitate peoples communications.
 - Ziggs is like a meeting point with your devices, it helps you to transfer contents between these devices smoothly.
 - Drag-and-drop PDFs, images, videos, APK apps and other files directly into Ziggs.
 - Messages are delivered directly from your device to the connected clients.
 - Ziggs doesn't store any type of data and doesn't require your personal information.
+- Ziggs uses smart solutions based on client-side to share channel conversation history with new clients.
+- Exists channel clients will act as seeds, helps new clients to follow up with the conversation.
+
 
 ### Where and why to use Ziggs?
 
@@ -22,18 +25,57 @@ Smoothly Share Content Between Devices
 
 ### Features
 
-- No registration is required.
+
+- No registration required.
+    Type a channel name and you are ready to send messages, images, videos, PDF's.
+    Your details and personal information are not needed. No verification or e-mail confirmation is required on Ziggs.
+    Ziggs is user-friendly, simple, speedy and not complicated platform; Type a channel name and you’re ready to go.
+    Don't waste your time putting your personl information online.
+    Ziggs made to be simple, fast, lightweight and non-commercial.
+    
+    
 - 100% secure and anonymous.
-- High privacy conversations.
+- High privacy conversation.
+
+    The privacy of your messages is neither compromised nor intruded because Ziggs Doesn’t store your messages.
+    Your messages are always delivered to your recipient directly with optimum privacy.
+    We have zero knowledge about the data transferred over us.
+    Your messages are well protected and secured, no one gets to read or track your messages.
+    Ziggs uses Transport Layer Security (TLS) as a medium of data transfer making sure your data transferred securely.
+    
 - Voice messages.
 - Emoji Supported.
-- Share files over 500MB per File.
+- File Sharing Made Simple.
+    Confidently and securely share your most sensitive documents using the industry’s leading online file sharing solution
+    Ziggs allows sharing of bulky files of over 500MB for free.
+    Ziggs provides direct download links to your files.
+    Drag and drop your PDFs, images, videos, APK apps, and other files directly into the conversation.
+    Your files do not stay for more than 10 minutes on our servers; this ensures that your files are confidentially secured.
+    You are allowed to enjoy unlimited bandwidth in data transfer and unlimited download.
+    
+    
+    
+    
 - Share images with the same quality.
 - Most files extenstions are supported.
 - All languages supported.
-- Pin a note for channel users.
+- Pin a message for your channel users.
+    Sending a message to every new client connected to your channel is easily done on Ziggs.
+    Pin a message before you join the channel and every user connects after you will get your message.
+    Ziggs will store your pinned message on our servers until you leave the channel.
+    If the channel has an already pinned message, you will not be able to pin a message.
+    Nobody can override your pinned message as long as you’re in the channel.
+    
+    
 - Typing indictors.
 - MarkDown supported for codes.
+    
+    Make your codes more readable.
+    - Ziggs supports Markdown formatting for your codes.
+    - Ziggs using a lightweight, extensible syntax highlighter library to make your code readable while messaging.
+    - You can have your code easily formatted by typing your codes between two backquotes `Your code` according to MarkDown language.
+    - Type your code between two backquotes and ziggs will format your plain text as a code.
+    
 - Public issue tracking.
 - Ziggs is totally free.
 - Low data usage.
