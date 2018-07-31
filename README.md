@@ -9,15 +9,16 @@ Smoothly Share Content Between Devices
 - Ziggs is like a meeting point with your devices, it helps you to transfer contents between these devices smoothly.
 - Drag-and-drop PDFs, images, videos, APK apps and other files directly into Ziggs.
 - Messages are delivered directly from your device to the connected clients.
-- Ziggs doesn't store any type of data and doesn't require your personal information.
+- We don't store any type of data and doesn't require your personal information.
 - Ziggs uses smart solutions based on client-side to share channel conversation history with new clients.
 - Exists channel clients will act as seeds, helps new clients to follow up with the conversation.
 
 
 ### Where and why to use Ziggs?
 
-- Workspace: Share pictures, screenshots, codes, texts, and links with your team and friends smoothly.
-- Conferences: Share questions, comments, contact details or anything with attendees.
+
+- Workspace: Share any content with your team and friends smoothly.
+- Conferences: Give attendees the opportunity to ask you their embarrassing questions without revealing their identity.
 - School: Sending some texts to classmates, emails or Facebook accounts can be boring. Ziggs is the fastest way.
 - Strangers: Create a channel and get your data without revealing your facebook or mobile number.
 - Multiple Devices: Transfer any content e.g. texts, pictures, videos between devices.
